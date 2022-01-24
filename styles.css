@@ -1,0 +1,22 @@
+.my-container {
+    background-color: #0D1A2D;
+}
+
+.card-background {
+    background-color: #15273F;
+}
+
+.grey {
+    color: #84A7D1;
+}
+
+.light-blue {
+    color: #00FEF5;
+}
+
+.divider {
+    height: 1px;
+    width: 100%;
+    background-color: #84A7D1;
+    opacity: 0.4;
+}
